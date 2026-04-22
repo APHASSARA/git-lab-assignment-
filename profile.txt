@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Name: MAIN VERSION 
+=======
+Name: FEATURE VERSION
+>>>>>>> e8084ba (Edit name in feature branch)
 No.Matric: 251594183
 Course: DATA SAINS 
 Hobbies: Music, Gaming 
